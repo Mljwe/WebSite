@@ -1,0 +1,112 @@
+/* .rounded-img {
+  width: 60%;
+  border-radius: 20%;
+  box-shadow: 0 0 10px rgba(26, 9, 9, 0.6);
+  padding: 0.2em;
+  margin-bottom: 1em;
+} */
+
+#ava {
+  width: 500px;
+  border-radius: 20%;
+}
+
+#about {
+  padding: 300px;
+}
+
+#body {
+  background-color: rgb(233, 232, 231);
+}
+
+#second_img {
+  padding: 200px;
+  width: 1000px;
+  border-radius: 30%;
+}
+
+#email {
+  width: 70px;
+  padding-top: 20px;
+}
+
+#phone {
+  width: 70px;
+}
+
+#phone_text {
+  font-style: italic;
+  font-size: 20px;
+}
+
+#email_text {
+  font-style: italic;
+  font-size: 20px;
+}
+
+#contact_text {
+  font-style: italic;
+  padding-bottom: 20px;
+  padding-top: 40px;
+}
+
+#footer {
+  background-color: rgb(0, 0, 0);
+  height: 110px;
+}
+
+#vk {
+  width: 70px;
+}
+
+#smile {
+  padding-bottom: 20px;
+  font-size: 60px;
+  font-style: italic;
+}
+
+#button_width {
+  width: 150px;
+  height: 50px;
+}
+
+.boarder {
+  background: rgb(228, 228, 228);
+  padding: 15px;
+  border: 10px solid rgb(217, 217, 217);
+  margin: 10;
+}
+
+#second_part {
+  background: rgb(228, 228, 228);
+}
+
+#third_part {
+  background: rgb(233, 233, 233);
+}
+
+#App_img {
+  height: 432px;
+  width: 241px;
+  margin-left: 90px;
+}
+
+#App {
+  margin-top: 40px;
+}
+
+#WebSite {
+  margin-top: 40px;
+}
+
+h5 {
+  font-style: italic;
+}
+
+p {
+  font-style: italic;
+}
+
+#body_wins {
+  background: rgb(228, 228, 228);
+}
